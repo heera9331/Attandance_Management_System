@@ -1,0 +1,48 @@
+[
+    {
+        "date": "01/01/2023",
+        "teacher_id": "101",
+        "presenties": [
+            {
+                "name": "Heera",
+                "enrollno": "0610CS201030"
+            },
+            {
+                "name": "Abhay",
+                "enrollno": "0610CS201002"
+            }
+        ],
+        "applications": [
+            {
+                "name": "Suneet",
+                "enrollno": "0610CS201001",
+                "reason": "fever"
+            },
+            {
+                "name": "Suneet",
+                "enrollno": "0610CS201001",
+                "reason": "health issue"
+            }
+        ],
+        "remark": [
+            "ramark1",
+            "ramark2"
+        ]
+    },
+    {
+        "date": "01/01/2023",
+        "teacher_id": "101",
+        "presenties":[
+            {"name":"Heera", "enrollno":"0610CS201030"},
+            {"name":"Abhay", "enrollno":"0610CS201002"}
+        ],
+        "applications":[
+            {"name":"Suneet", "enrollno": "0610CS201001", "reason": "fever"},
+            {"name":"Suneet", "enrollno": "0610CS201001", "reason": "health issue"}
+        ],
+        "remark":[
+            "ramark1",
+            "ramark2"
+        ]
+    }
+]

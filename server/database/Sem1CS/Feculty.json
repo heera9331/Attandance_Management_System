@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Shiva",
+        "f_id": 101,
+        "email": "shiva@gmail.com",
+        "mobile": 808856881,
+        "passwd": "shiva@123",
+        "is_admin": false
+    },
+    {
+        "name": "Vishal",
+        "f_id": 102,
+        "email": "shiva@gmail.com",
+        "mobile": 808856881,
+        "passwd": "shiva@123",
+        "is_admin": false
+    }
+    
+]

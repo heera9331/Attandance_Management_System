@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/1/2023",
+        "presenties": [
+            {
+                "f_id": 101,
+                "name": "Shiva"
+            },
+            {
+                "f_id": 102,
+                "name": "Vishal"
+            }
+        ],
+        "applications": {
+            "name": "Suneeta",
+            "f_id": 101,
+            "reason": "fever"
+        },
+        "remark": [
+            "ramark1",
+            "remark2"
+        ]
+    },
+    {
+        "date": "1/1/2023",
+        "presenties": [
+            {
+                "f_id": 101,
+                "name": "Shiva"
+            },
+            {
+                "f_id": 102,
+                "name": "Vishal"
+            }
+        ],
+        "applications": {
+            "name": "Suneeta",
+            "f_id": 101,
+            "reason": "fever"
+        },
+        "remark": [
+            "ramark1",
+            "remark2"
+        ]
+    }
+]
